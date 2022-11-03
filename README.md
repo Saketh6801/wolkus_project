@@ -1,3 +1,3 @@
 # wolkus_project
-#project depployment link
+project deployment link
 https://glittery-croissant-b95c06.netlify.app/
